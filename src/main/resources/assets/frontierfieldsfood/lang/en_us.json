@@ -1,0 +1,13 @@
+{
+  "itemGroup.frontierfieldsfood": "Example Mod Tab",
+  "block.frontierfieldsfood.example_block": "Example Block",
+  "item.frontierfieldsfood.example_item": "Example Item",
+
+  "frontierfieldsfood.configuration.title": "frontierfields-food Configs",
+  "frontierfieldsfood.configuration.section.frontierfieldsfood.common.toml": "frontierfields-food Configs",
+  "frontierfieldsfood.configuration.section.frontierfieldsfood.common.toml.title": "frontierfields-food Configs",
+  "frontierfieldsfood.configuration.items": "Item List",
+  "frontierfieldsfood.configuration.logDirtBlock": "Log Dirt Block",
+  "frontierfieldsfood.configuration.magicNumberIntroduction": "Magic Number Text",
+  "frontierfieldsfood.configuration.magicNumber": "Magic Number"
+}
